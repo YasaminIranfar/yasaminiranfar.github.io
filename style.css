@@ -54,6 +54,13 @@ section {
   text-decoration: none;
 }
 
+.banner {
+  width: 100%;
+  height: 250px; /* Adjust the height as needed */
+  object-fit: cover; /* Ensures the image fits well */
+  border-radius: 10px 10px 0 0; /* Rounded corners for the top */
+  margin-bottom: 20px; /* Space between the banner and the content */
+}
 footer {
   text-align: center;
   margin-top: 40px;
